@@ -1,0 +1,117 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: "Work Sans";
+}
+
+
+/* header section start  */
+
+.about {
+    width: 100%;
+    background-color: #fff;
+}
+
+.main img {
+    height: 808px;
+    width: 1600px;
+    left: 1600px;
+    top: 808px;
+}
+
+.about-text {
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+}
+
+.about-text h1 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #44af83;
+}
+
+.about-text p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.button-container {
+    border: 1px solid pink;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 4px 4px 4px 4px;
+}
+
+.button1 {
+    border: 1px solid #F15B22;
+    height: 80px;
+    width: 40%;
+    background-color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    line-height: 80px;
+    font-weight: 600;
+    margin-left: auto;
+}
+
+
+/* header section end  */
+
+
+/* --------person section start-----------  */
+
+.person-img {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.person-text {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-size: 20px;
+}
+
+.person-text p {
+    font-size: 16px;
+}
+
+
+/* --------person section end ----------- */
+
+
+/* --------------MY plan start---------------  */
+
+.services-one {
+    width: 65%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.row-one {
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+
+
+/* ---------------------MY plan start-------------------  */
